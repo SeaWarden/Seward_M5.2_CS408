@@ -58,6 +58,9 @@ Added labels and adjusted the css style sheet. Also included aria-labels.
 # Show/Hide Comments
 Added button to hide and show the comments.
 
+# The Table
+Distinguished table headers vs table datapoints. Also added captions and a summary.
+
 
 
 

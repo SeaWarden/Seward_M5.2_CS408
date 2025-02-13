@@ -39,5 +39,8 @@ According to WebAIM, the foreground of #000000 with the background of #008000 fa
 
 # Semantic HTML
 
+# The Images
+Added alt text to images, so those who cannot see them are able to tell what images are present.
+
 
 

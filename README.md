@@ -55,6 +55,9 @@ I also added a quick download link for those who cannot access the file with the
 # The Forms
 Added labels and adjusted the css style sheet. Also included aria-labels.
 
+# Show/Hide Comments
+Added button to hide and show the comments.
+
 
 
 

@@ -210,8 +210,14 @@ audio {
 }
 
 .show-hide {
+  cursor: pointer;
   text-align: center;
   width: 150px;
+  font-size: 1.6rem;
+  line-height: 32px;
+  background: #333;
+  border: 0;
+  color: white;
 }
 
 .comment-form input, .comment-form label, .show-hide {

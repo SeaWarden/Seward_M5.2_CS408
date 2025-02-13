@@ -38,6 +38,9 @@ The background color started as green, which made the text difficult to read. I 
 According to WebAIM, the foreground of #000000 with the background of #008000 fails most of the tests (3/5). This scored 4.08:1. Changing the background to #FFFFFF changed the scoring to passing (5/5) and had a contrast score of 21.0:1
 
 # Semantic HTML
+For me, nothing really happened when trying to navigate with the keyboard. Using the arrow keys, I was able to scroll through the site. 
+
+I did update the article text to use p headers instead of br headers. I also updated the table to use table headers / table datapoints more appropriately. I also replaced certain areas that used the font header with css headers (h1, h2, h3).
 
 # The Images
 Added alt text to images, so those who cannot see them are able to tell what images are present.

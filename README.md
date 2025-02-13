@@ -42,6 +42,8 @@ For me, nothing really happened when trying to navigate with the keyboard. Using
 
 I did update the article text to use p headers instead of br headers. I also updated the table to use table headers / table datapoints more appropriately. I also replaced certain areas that used the font header with css headers (h1, h2, h3).
 
+For the navigation, I added english as the language and references to adjust for different screen sizes / devices.
+
 # The Images
 Added alt text to images, so those who cannot see them are able to tell what images are present.
 

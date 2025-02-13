@@ -47,5 +47,11 @@ For the navigation, I added english as the language and references to adjust for
 # The Images
 Added alt text to images, so those who cannot see them are able to tell what images are present.
 
+# The Audio Player
+I added a section which transcribes the audio file.
+
+I also added a quick download link for those who cannot access the file with their browser.
+
+
 
 

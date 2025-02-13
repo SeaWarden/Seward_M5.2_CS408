@@ -52,6 +52,9 @@ I added a section which transcribes the audio file.
 
 I also added a quick download link for those who cannot access the file with their browser.
 
+# The Forms
+Added labels and adjusted the css style sheet. Also included aria-labels.
+
 
 
 

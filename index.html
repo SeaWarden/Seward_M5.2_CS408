@@ -26,8 +26,8 @@
         <li><a href="#">Blog</a></li>
       </ul>
 
-      <form class="search">
-        <input type="search" name="q" placeholder="Search query">
+      <form class="search" aria-label="Search">
+        <input type="search" name="q" placeholder="Search query" aria-label="Search query">
         <input type="submit" value="Go!">
       </form>
     </div>
@@ -108,11 +108,11 @@
             <h3>Add comment</h3>
             <form class="comment-form">
               <div class="flex-pair">
-                Your name:
+                <label for="name">Your name:</label>
                 <input type="text" name="name" id="name" placeholder="Enter your name">
               </div>
               <div class="flex-pair">
-                Your comment:
+                <label for="comment">Your comment:</label>
                 <input type="text" name="comment" id="comment" placeholder="Enter your comment">
               </div>
               <div>
